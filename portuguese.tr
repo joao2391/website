@@ -1,0 +1,148 @@
+examples
+Exemplos
+-----
+documentation
+Documentação
+-----
+modules
+Módulos
+-----
+faq
+FAQ
+-----
+built_in_v
+Criado com V
+-----
+the_v_lang
+The V Programming Language
+-----
+v_slogan
+Linguagem simples, rápida, segura e compilada para o desenvolvimento de software sustentável
+-----
+includes_binaries 
+inclui binários para 3 sistemas
+-----
+install_source 
+Ou instale V a partir do código-fonte
+-----
+couple_seconds 
+isso pode levar alguns segundos
+-----
+wip_info
+V é uma linguagem desenvolvida ativamente em um estágio inicial.
+Os recursos que estão sendo desenvolvidos são marcados com $wip
+
+O resto das coisas nesta página e a documentação foram implementadas e seu código lançado.
+Quando a data planejada para a V 1.0 chegar, em dezembro de 2019, não haverá mais $wip.
+-----
+forum
+Forum
+-----
+blog
+Blog 
+-----
+fast_compilation
+Compilação rápida
+-----
+safety
+Seguro
+-----
+performance 
+Performance
+-----
+simple_language_for_maintainable_programs
+Linguagem simples para criar programas sustentáveis
+-----
+zero_deps 
+Compilador de 400 KB sem dependências
+-----
+c_translation 
+Tradução de C/C++ 
+-----
+introduction
+Introdução 
+-----
+comments
+Comentários 
+-----
+functions
+Funções 
+-----
+variables
+Variáveis
+-----
+basic_types 
+Tipos básicos
+-----
+strings
+Strings
+-----
+arrays
+Arrays 
+-----
+maps
+Maps 
+-----
+if
+If 
+-----
+in_op 
+Operador In 
+-----
+for_loop 
+Laço for 
+-----
+switch 
+Switch 
+-----
+structs 
+Structs 
+-----
+access_mod 
+Modificadores de acesso
+-----
+methods
+Métodos
+-----
+pure_fns 
+Funções puras
+-----
+high_fns 
+Funções de ordem superior
+-----
+constants 
+Constantes 
+-----
+modules
+Módulos 
+-----
+interfaces
+Interfaces 
+-----
+enums
+Enums 
+-----
+optionals_and_errors 
+Tipos opcionais e tratamento de erros
+-----
+generics
+Generics 
+-----
+concurrency
+Concorrência 
+-----
+decoding_json 
+Decodificação de JSON 
+-----
+testing
+Testing 
+-----
+memory_management 
+Gerenciamento de memória
+-----
+fast_comp1
+V compila entre ≈100k e 1.2 milhões de linhas de código a cada segundo por núcleo de CPU
+-----
+fast_comp2
+V compila-se entre 0,15 - 0,6 segundos
+-----
